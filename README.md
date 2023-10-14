@@ -49,7 +49,7 @@ git@github.com:devpandey2621998/man_down_deepstream.git
  ##### Step 3 : Detect noun in the English sentence using NLTK for named entity recognition.
  ![image](https://github.com/AnupamGiri/EnglishToHinglish/assets/76550954/06960b45-f7f3-472e-b94e-19f8c57948d3)
 
- ##### Step 4 : Convert noun words in Hindi sentence & replace the hindi noun word with English noun word.
+ ##### Step 4 : Convert noun words into corrosponding Hindi words & replace the hindi noun word with English noun word.
 ![image](https://github.com/AnupamGiri/EnglishToHinglish/assets/76550954/3113634b-0d57-491b-89f6-e71a13179b3a)
 
 
