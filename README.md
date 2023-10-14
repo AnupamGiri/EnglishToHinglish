@@ -33,9 +33,9 @@ sudo apt install git
 Next, clone the repository
 ```
 # Using HTTPS
-https://github.com/devpandey2621998/man_down_deepstream.git
+https://github.com/AnupamGiri/EnglishToHinglish.git
 # Using SSH
-git@github.com:devpandey2621998/man_down_deepstream.git
+git@github.com:AnupamGiri/EnglishToHinglish.git
 ```
 
 ## Approach
