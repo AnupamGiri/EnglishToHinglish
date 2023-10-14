@@ -43,7 +43,7 @@ git@github.com:devpandey2621998/man_down_deepstream.git
  ##### Step 1 : Take an input sentence in English.
  ![image](https://github.com/AnupamGiri/EnglishToHinglish/assets/76550954/0a7791fe-c14a-40b7-8bbd-b45a3be3569b)
 
- ##### Step 2 : Translate the English sentecne to Hindi sentence.
+ ##### Step 2 : Translate the English sentecne to Hindi sentence using mBART model.
  ![image](https://github.com/AnupamGiri/EnglishToHinglish/assets/76550954/f6184108-b261-4a7b-b1fe-935fa88b5137)
 
  ##### Step 3 : Detect noun in the English sentence using NLTK for named entity recognition.
